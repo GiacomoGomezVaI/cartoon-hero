@@ -9,12 +9,13 @@ header{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
-h1, h2{
-	font-family: 'Merienda', cursive;
+h1{
+	font-family: 'Prata', serif;
 }
 header h1{
 	color: white;
-	font-size: 70px;
+	font-size: 64px;
+	font-weight: 400;
 }
 header img{
 	border-radius: 170px;
